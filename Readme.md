@@ -45,7 +45,7 @@ Caso ainda não tenha o Visual Studio Code instalado, faça o download e instale
 
 1. Baixe ou clone este repositório no seu ambiente local:
     ```sh
-    git clone https://github.com/NerinhoAmorim/ClockeTemporizadores.git
+    git clone https://github.com/NerinhoAmorim/Atividade-1---Temporizador-Peri-dico
     ```
 ## Funcionamento
 
